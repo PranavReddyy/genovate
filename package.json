@@ -9,15 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/core": "^0.3.48",
+    "@langchain/groq": "^0.2.2",
+    "clsx": "^2.1.1",
+    "langchain": "^0.3.24",
+    "motion": "^12.7.5",
+    "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.1"
+    "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.1.4",
+    "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   }
 }
