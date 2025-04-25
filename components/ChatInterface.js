@@ -176,7 +176,7 @@ export default function ChatInterface({
                             animate="animate"
                         >
                             <p className="text-white/90 text-sm">
-                                I've analyzed information about <span className="font-semibold text-blue-400">{topic}</span>.
+                                I&apos;ve analyzed information about <span className="font-semibold text-blue-400">{topic}</span>.
                                 What specific aspects would you like to explore? You can ask about structure, function,
                                 disease associations, drug interactions, or genetic variants.
                             </p>
